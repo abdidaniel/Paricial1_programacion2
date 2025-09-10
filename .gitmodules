@@ -1,0 +1,3 @@
+[submodule "gestion-equipos-app"]
+	path = gestion-equipos-app
+	url = https://github.com/abdidaniel/submodulo-angular
